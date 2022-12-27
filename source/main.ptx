@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+    <book xml:id="my-great-book">
+        <title>My Great Book</title>
+        <subtitle>An example to get you started</subtitle>
+    </book>
+</pretext>
